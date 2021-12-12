@@ -1,2 +1,2 @@
 # Tic-Tac-Toe Game
-A full fledged tic tak toe game CLI based.
+A CLI based tic-tac-toe game.
